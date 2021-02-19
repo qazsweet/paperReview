@@ -1,6 +1,6 @@
 # paperReview
 
-learn or catch up with something new everyday
+learn or catch up with something new 
 
 list not least include: paper, presentation, survey, etc.
 
